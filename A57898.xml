@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of His Majesties, and the French Kings forces under my command, with the Dutch the 11th of August, 1673, near the Texel.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57898</idno>
+            <idno type="STC">Wing R2286</idno>
+            <idno type="STC">ESTC R34013</idno>
+            <idno type="EEBO-CITATION">13660405</idno>
+            <idno type="OCLC">ocm 13660405</idno>
+            <idno type="VID">101108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of His Majesties, and the French Kings forces under my command, with the Dutch the 11th of August, 1673, near the Texel.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Rupert by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101108:1"/>
+            <pb facs="tcp:101108:1" rendition="simple:additions"/>
+            <p>A BRIEF RELATION OF HIS Majeſties, AND THE FRENCH KINGS FORCES UNDER MY COMMAND, WITH THE DUTCH</p>
+            <p>The 11<hi>th.</hi> of <hi>Auguſt,</hi> 1673.</p>
+            <p>Near the <hi>TEXEL.</hi>
+            </p>
+            <p>Printed in the Year, 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101108:2"/>
+            <pb n="3" facs="tcp:101108:2"/>
+            <head>A brief Relation of His Majeſties, and the <hi>French</hi> Kings Forces under my Command, with the <hi>Dutch,</hi> the 11<hi>th.</hi> of <hi>Auguſt,</hi> 1673. near the <hi>Texel.</hi>
+            </head>
+            <p>UPon <hi>Monday,</hi> the <hi>11th.</hi> of <hi>Auguſt,</hi> at Day-break, we ſay the <hi>Dutch</hi> Fleet about a League and a Half to Windward, being then at E. S. E. fair Weather, and not far from the Shoar, at which time both their Fleet and ours were ſtanding to the Northward. About Six of the Clock, I put Aboard the Signal for our Fleet to Tack to the South; which they did. Then the <hi>French</hi> had the Van, and my Self was in the Middle, and Sir <hi>Edward Sprage</hi> in the Rear. About the ſame time the <hi>Dutch</hi> Fleet Bore down upon us; and <hi>De Ruyter</hi> ſent the Vice-Admiral of <hi>Zealand,</hi> with Seven Men of War to Engage the whole <hi>French</hi> Squadron: Admiral <hi>Trump</hi> with his Squadron (being about Twenty Six Men of War, and Seven Fire-ſhips) En<g ref="char:EOLhyphen"/>gaged Sir <hi>Edward Sprage:</hi> And the <hi>Blew</hi> Squadron (who laid their Top-ſail to the Maſt to ſtay for them) contrary to my
+<pb n="4" facs="tcp:101108:3"/>Expreſs Order, and his own Duty. <hi>De Ruyter,</hi> and <hi>Ban<g ref="char:EOLhyphen"/>kuret,</hi> with all the reſt of the Fleet, Fire-ſhips, and Men of War, came on upon Me, and my Squadron. About Eight of the Clock the Fight began, and about Nine there fell a Fog, with ſmall Rain, which Continued till Twelve of the Clock: Then it Cleared up, and the Wind came to the <hi>South,</hi> which put the <hi>French</hi> Squadron (being a Head) to VVindward of the <hi>Dutch:</hi> At which time all the <hi>French</hi> (having the Wind) in ſtead of Tacking and Engaging the Enemy (as I expected from them) ſtood away to the S. E. the VVind then at S. S. VV. and ſtood full Two Leagues away before they Tacked again, and the Vice-Admiral of <hi>Zealand</hi> had leſt them, and came down upon us. At this time I ſaw Sir <hi>John Chichley,</hi> Reer-Admiral of the Red, to Leeward a great way: The whole Force of <hi>De Ruyters,</hi> and <hi>Bankurets</hi> Squadrons, lay upon my Diviſion, and Sir <hi>John Harmons;</hi> the Enemy having left off Sir <hi>John Chichley,</hi> and his Diviſion, ſo that about Twelve a Clock I had upon me <hi>De Ruyter,</hi> and his Squadron on my Lee-quarter, and the <hi>Zealand</hi> Squadron upon my Broad-ſide, to the VVind<g ref="char:EOLhyphen"/>ward. Having Fought thus ſome time with both my Broad<g ref="char:EOLhyphen"/>ſides, to VVindward and to Leeward, I edg'd down towards the Reer-Admiral of the <hi>Red,</hi> forcing the Enemy to give me way, and ſo Joyned with them.</p>
+            <p>After this, about Two a Clock, I diſcovered the <hi>Blew</hi> Squadron at a diſtance near three Leagues to Leeward, bearing N. N. E. and I not knowing what condition the Suadron was in, and finding the Guns not well plied, I made all the Sail I could to them, both to Joyn the Fleet, and to Help them, if Occaſion required; the VVind then being S. S. VV. <hi>De Ruyter</hi> no ſooner perceived my Reſolutions, but he Bore away with all the Fleet to the Relief of <hi>Trump,</hi> ſo that we came Down ſide by ſide within Range of Cannon Shot, without Firing on either ſide. And as we were Sail<g ref="char:EOLhyphen"/>ing down, we ſaw a great many of the <hi>Blew</hi> Squadron; which
+<pb n="5" facs="tcp:101108:3"/>we judged had received ſo no Damaage, to VVindward of the Body, and likewiſe ſome of the <hi>Red,</hi> to which I Fired a Gun for them to Bear down to us: Notwithſtanding which, they did not. About Four a Clock, we came near the <hi>Blew</hi> Squadron, where we found the Royal <hi>Prince</hi> wholly diſabled, her Main-maſt, Mizen-maſt, and the Fore-top-maſt Shot away, and diſcovered more Ships diſabled. The Vice-Ad<g ref="char:EOLhyphen"/>miral of the <hi>Blew</hi> mending her Rigging, the Reer-Admiral (the Earl of <hi>Oſſery</hi>) lying a Stern of the Royal <hi>Prince,</hi> be<g ref="char:EOLhyphen"/>tween her and the Enemy, and two Friggots by him; upon which I ſent immediately two Frigots to take the Royal <hi>Prince</hi> in a Toow, <hi>Trumps</hi> Squadron lying to the Eaſtward of them, ſome of them diſabled in their Top-maſts, and Yards, part of his Squadron with the Vice-Admiral, and Reer-Admiral ſtanding to the Eaſtward, cloſe to the wind with all the Sail they could to gain them, ſo I Tacked again upon the <hi>Blew:</hi> when we came near them (being about Four a Clock) <hi>De Ruyter</hi> fired a Gun, upon which <hi>Trump</hi> Taced, and <hi>De Ruyter</hi> bore down with all the Sail he could with all his whole Fleet, to make himſelf Maſter of our lame Ships. Upon which we lay by before to the windward of Sir <hi>John Kemp<g ref="char:EOLhyphen"/>thorn,</hi> to get our Fleet in Order to Ataque the Enemy again; I putting out the uſual Signal, <hi>viz.</hi> the <hi>Blew</hi> Flag upon the Mizen Peke, to bring all our Ships into the general VVake, or Grains.</p>
+            <p>I ſent alſo Ketches, Slopes, and Boats, to Ships that were to windward, to Command them in: whereupon we Bore up, and Sheered in between <hi>De Ruyter</hi> and our Lame Ships, and fired Guns to ſome of our own Ships to windward to Bear down, but none of them came near to Aſſiſt me except the Earl of <hi>Oſſery,</hi> and Sir <hi>John Kempthorn,</hi> ſo that I had great Reaſon to believe that the <hi>Blew</hi> Squadron had been totally Loſt, except I had ſo happily come to their Relief; ſince they were ſo Diſabled, as no more of them but their two Flag Ships only gave me Aſſiſtance, after I came down.</p>
+            <p>
+               <pb n="6" facs="tcp:101108:4"/>
+About Five a Clock, <hi>De Ruyter</hi> with all his Flags and Fleet, came Side by Side cloſe up with me, ſo there began again a very ſharp Encounter. This Evenings Engagement I had none to Second me, beſides the Vice-Admiral, and Reer-Admiral of the <hi>Blew,</hi> but Sir <hi>John Harmon,</hi> Captain <hi>Davis,</hi> in the <hi>Triumph,</hi> and Captain <hi>Stout,</hi> in the <hi>Warſpike:</hi> And of my own Diviſion, Sir <hi>John Holmes,</hi> in the <hi>Raven,</hi> Captain <hi>Legg,</hi> in the Royal <hi>Katherine,</hi> Sir <hi>John Berry,</hi> in the <hi>Reſo<g ref="char:EOLhyphen"/>lution,</hi> Sir <hi>John Emſly,</hi> in the <hi>Henry,</hi> Sir <hi>Roger Strickland,</hi> in the <hi>Mary,</hi> Captain <hi>Carter,</hi> in the <hi>Crow,</hi> a Fourth-rate, and Captain <hi>Bath,</hi> in the <hi>Pearl,</hi> a Fifth rate, in all not above Thirteen or Fourteen Ships.</p>
+            <p>The Fight was very Sharp, and Cloſe, I forced the Enemy into a great Diſorder, and then ſent two Fire-Ships amongſt them, which encreaſt it: And if the <hi>French</hi> then Lying within Diſtance, had obeyed my Signal, and Born down upon the Enemy according to their duty, I muſt have Routed them, and Torn them all to Pieces. It was the plaineſt, and greateſt Opportunity was ever loſt at Sea.</p>
+            <p>The Fight continued till the day was near ſpent, and the Sun was juſt Setting, when I Edg'd off with an eaſie Sail, ſo as to Carry off the diſabled Ships, and the <hi>Dutch</hi> alſo laid their Heads to the Eaſtward, and ſo the Battel ended,</p>
+            <p>Then came a Meſſenger from <hi>Count de Eſtrees,</hi> to receive Orders, and to know what was the Meaning of the <hi>Blew</hi> Flags being put upon the Mizen Peek: Which I could not but wonder at, ſince there was no Inſtruction plainer to be underſtood, or more neceſſary amongſt the general Inſtructi<g ref="char:EOLhyphen"/>ons for Fighting, which he had before hand. Beſides, it wanted neither Signal, nor Inſtructions to tell him what he ſhould have done at a time when the Caſe was ſo plain to eve<g ref="char:EOLhyphen"/>ry mans Eye in the whole Fleet.</p>
+            <p>The Enemy, when dark Night came, ſtood off to their own Coaſt, which I had reaſon to be glad of, reſolving if I could avoid it, not to Venture an Engagement the next day,
+<pb n="7" facs="tcp:101108:4" rendition="simple:additions"/>unleſs I could have had a better Aſſurance, what <hi>Count de Eſtrees</hi> ment to do, who ſo ſhamefully failed me in the Battel.</p>
+            <p>Neither <hi>Engliſh,</hi> nor <hi>French,</hi> loſt one Ship of War, nor do I think the <hi>Dutch</hi> had much cauſe to Rejoyce. And con<g ref="char:EOLhyphen"/>ſidering the Horrible and Apparent Treachery, or Cowar<g ref="char:EOLhyphen"/>diſe of the <hi>French,</hi> I reckon it the greateſt Providence, that ever befel me in my Life, that I brought off his Majeſties Fleet ſo.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
